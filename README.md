@@ -446,7 +446,7 @@ If you want to try out Mojo online using the Modular Playground, you can visit t
 
 Thank you for your attention and happy coding! 😊
 
-[Modular Playground](https://playground.modular.com/mojo)
-[Mojo Documentation](https://docs.modular.com/moj)
-[Examples of Mojo programs](https://examples.modular.com/mojo)
+[Modular Playground](https://playground.modular.com/hub) |
+[Mojo Documentation](https://docs.modular.com/mojo) |
+[Sample Mojo Notebooks](https://docs.modular.com/mojo/notebooks/)
 
